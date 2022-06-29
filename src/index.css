@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +10,81 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  height: 100vh;
+  background-color: #f5db45 ;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.header {
+  background-color: #dbbe16;
+  height: 12vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-bottom: solid black 2px
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.countdown {
+  width: 100vw;
+  height: 88vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.sub {
+  color: white;
+  width: 90vw;
+  height: 70vh;
+  background-color: #dbbe16;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 7px;
+  min-height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: solid black 2px
+}
+
+.totalTime {
+  margin: 10px 10px 30px 10px;
+  
+}
+
+.absoluteTime {
+  margin: 30px 0 30px 0;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  font-size: 5vh;
+  width: 100%;
+}
+
+hr {
+  width: 100%;
+}
+
+
+
+
+
