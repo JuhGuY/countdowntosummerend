@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/countdowntosummerend/static/css/main.e1eb37e2.css",
+    "main.css": "/countdowntosummerend/static/css/main.bde2bee1.css",
     "main.js": "/countdowntosummerend/static/js/main.14aa9134.js",
     "static/js/787.482db2ac.chunk.js": "/countdowntosummerend/static/js/787.482db2ac.chunk.js",
     "index.html": "/countdowntosummerend/index.html",
-    "main.e1eb37e2.css.map": "/countdowntosummerend/static/css/main.e1eb37e2.css.map",
+    "main.bde2bee1.css.map": "/countdowntosummerend/static/css/main.bde2bee1.css.map",
     "main.14aa9134.js.map": "/countdowntosummerend/static/js/main.14aa9134.js.map",
     "787.482db2ac.chunk.js.map": "/countdowntosummerend/static/js/787.482db2ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1eb37e2.css",
+    "static/css/main.bde2bee1.css",
     "static/js/main.14aa9134.js"
   ]
 }
